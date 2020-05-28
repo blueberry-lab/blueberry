@@ -1,4 +1,4 @@
-note: version management. a.b.c (a is the big change, b is the product versions, c is the optimization)
+note: version management. `a.b.c` (a is the big change, b is the product versions, c is the optimization)
 
 # The main channel: PAPAYA
 
