@@ -1,0 +1,2693 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ozxmlscene>
+<ozml version="5.11">
+
+<displayversion>5.4.5</displayversion>
+
+<factory id="1" uuid="044beba5ad3211d7ac9b000393833f6a">
+	<description>Style</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="2" uuid="0a5c0b1d4acd11d8b650000a95a6b5a8">
+	<description>Channel</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="3" uuid="0e8d443513b611d89395000a95af9f7e">
+	<description>Channel</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="4" uuid="10405f52139811d8b4db000a95af9f7e">
+	<description>Channel</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="5" uuid="1595b452229211d78c7f00039389b702">
+	<description>Channel</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="6" uuid="1c5986a34e9646e08fa8e92b03ba1aaf">
+	<description>Channel</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="7" uuid="27f3ee8b229211d7925a00039389b702">
+	<description>Channel</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="8" uuid="46c844a813d311d8a438000a95af9f7e">
+	<description>Channel</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="9" uuid="558f10b4a1c011d7998900039389b702">
+	<description>Channel</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="10" uuid="65cb4dc9d4504fa281921f5f751fba06">
+	<description>Widget</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="11" uuid="66fc0d6af6a911d6a7a7000393670732">
+	<description>Image</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="12" uuid="68fba2c1aa094655bf4b81587efec626">
+	<description>Link</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="13" uuid="69f1e0a52e7911d8b19a000a95b0025a">
+	<description>Channel</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="14" uuid="6b337e9c21aa11d7a08700039375d2ba">
+	<description>Master</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="15" uuid="712462a4323911d78f8400039389b702">
+	<description>Shape</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="16" uuid="7644521e2e7911d891a6000a95b0025a">
+	<description>Channel</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="17" uuid="7d468273c013498e9806a0d7bc32fddf">
+	<description>Project</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="18" uuid="878a64bd193011d8bac3000a95af9f7e">
+	<description>Channel</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="19" uuid="aee0a63927494ed19a9667c9f83badfd">
+	<description>Material</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="20" uuid="babfc7777f4711d7aaa7000393833f6a">
+	<description>Text</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="21" uuid="caf198bdb7c34dccb8af6ebb4f382ae3">
+	<description>Replicator</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="22" uuid="dab733bb21ab47e08874d786d2fdddc9">
+	<description>Replicator Cell</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="23" uuid="dbca752470fd11d7980100039389b702">
+	<description>Channel</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="24" uuid="deca4859b16011d7a12d0003936f6f92">
+	<description>ProPlugin Filter</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="25" uuid="f32e7a31146f11d8a20a000a95af9f7e">
+	<description>Gradient</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="26" uuid="fca4a88380df4dab943a0962bdb1ae75">
+	<description>Channel</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="27" uuid="fdc1944b229111d7b1c300039389b702">
+	<description>Channel</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+
+<build></build>
+
+<description></description>
+
+<canvas>
+	<layout>1</layout>
+	<activeView>0</activeView>
+</canvas>
+
+<viewer subview="0">
+	<resolutionMode>0</resolutionMode>
+	<dynamicResolution>1</dynamicResolution>
+	<viewmode>0</viewmode>
+	<overlayOptions>125700</overlayOptions>
+	<oscOptions>30</oscOptions>
+	<compensateAspectRatio>1</compensateAspectRatio>
+	<renderFields>0</renderFields>
+	<showMotionBlur>0</showMotionBlur>
+	<showFrameBlending>1</showFrameBlending>
+	<showLighting>1</showLighting>
+	<showShadows>1</showShadows>
+	<showReflection>1</showReflection>
+	<showDepthOfField>0</showDepthOfField>
+	<renderFullView>0</renderFullView>
+	<renderQuality>2</renderQuality>
+	<textRenderQuality>2</textRenderQuality>
+	<showHighQualityResampling>0</showHighQualityResampling>
+	<showShapeAntialiasing>1</showShapeAntialiasing>
+	<show3DIntersectionAntialiasing>0</show3DIntersectionAntialiasing>
+	<cameraType>0</cameraType>
+	<cameraName>Active Camera</cameraName>
+	<mirrorHMD>0</mirrorHMD>
+	<panZoom camera="0" zoom="0.49992165402782501" panX="68" panY="-119.44993406554448" mode="1" centered="0"/>
+</viewer>
+
+<projectPanel>
+	<layersPreviewColumn>1</layersPreviewColumn>
+	<layersOpacityColumn>0</layersOpacityColumn>
+	<layersBlendColumn>0</layersBlendColumn>
+	<displayMasks>1</displayMasks>
+	<displayBehaviors>1</displayBehaviors>
+	<displayEffects>1</displayEffects>
+	<layersVerticalZoom>1.7999999523162842</layersVerticalZoom>
+	<mediaPreviewColumn>1</mediaPreviewColumn>
+	<mediaTypeColumn>1</mediaTypeColumn>
+	<mediaDurationColumn>1</mediaDurationColumn>
+	<mediaInUseColumn>1</mediaInUseColumn>
+	<mediaFrameSizeColumn>1</mediaFrameSizeColumn>
+	<mediaCompressorColumn>1</mediaCompressorColumn>
+	<mediaDepthColumn>1</mediaDepthColumn>
+	<mediaFrameRateColumn>1</mediaFrameRateColumn>
+	<mediaDataRateColumn>1</mediaDataRateColumn>
+	<mediaAudioRateColumn>1</mediaAudioRateColumn>
+	<mediaAudioFormatColumn>1</mediaAudioFormatColumn>
+	<mediaFileSizeColumn>1</mediaFileSizeColumn>
+	<mediaFileCreatedColumn>1</mediaFileCreatedColumn>
+	<mediaDileModifiedColumn>1</mediaDileModifiedColumn>
+	<mediaVerticalZoom>1.7999999523162842</mediaVerticalZoom>
+</projectPanel>
+
+<timeline>
+	<displayVideo>1</displayVideo>
+	<displayAudio>0</displayAudio>
+	<displayKeyframes>1</displayKeyframes>
+	<displayMasks>1</displayMasks>
+	<displayBehaviors>1</displayBehaviors>
+	<displayEffects>1</displayEffects>
+	<videoVerticalZoom>1</videoVerticalZoom>
+	<audioVerticalZoom>1</audioVerticalZoom>
+	<displayRange in="-160950376 1613281250 3 0" out="3733099183 1000000000 3 0"/>
+</timeline>
+
+<curveeditor>
+	<autozoom>0</autozoom>
+	<snapping>0</snapping>
+	<displayAudioWaveform>0</displayAudioWaveform>
+	<lockKeyframesInTime>0</lockKeyframesInTime>
+	<displayRange in="-160950376 1613281250 3 0" out="3733099183 1000000000 3 0"/>
+	<currentviewvolume originx="-0.099765850498789346" originy="-62.5" width="3.832865033" height="125"/>
+	<snapshotChannels>0</snapshotChannels>
+</curveeditor>
+
+<inspector>
+	<collapseState id="./1/100" state="1"/>
+	<collapseState id="./1/100/101" state="1"/>
+	<collapseState id="./1/100/105" state="1"/>
+	<collapseState id="./1/200" state="1"/>
+	<collapseState id="./1/324" state="0"/>
+</inspector>
+
+<scene>
+	<sceneSettings>
+		<width>1920</width>
+		<height>1080</height>
+		<duration>109</duration>
+		<shouldOverrideFCDuration>0</shouldOverrideFCDuration>
+		<frameRate>30</frameRate>
+		<NTSC>0</NTSC>
+		<pixelAspectRatio>1</pixelAspectRatio>
+		<workingGamut>0</workingGamut>
+		<viewGamut>-1</viewGamut>
+		<optimizeForDisplay>0</optimizeForDisplay>
+		<optimizeForDisplayLast>-1</optimizeForDisplayLast>
+		<backgroundColor red="0.2471664548" green="0.2471664548" blue="0.2471664548" alpha="1"/>
+		<audioChannels>2</audioChannels>
+		<audioBitsPerSample>32</audioBitsPerSample>
+		<fieldRenderingMode>1</fieldRenderingMode>
+		<motionBlurSamples>8</motionBlurSamples>
+		<motionBlurDuration>1</motionBlurDuration>
+		<sharpScaling>0</sharpScaling>
+		<startTimecode>0</startTimecode>
+		<presetPath></presetPath>
+		<backgroundMode>0</backgroundMode>
+		<reflectionRecursionLimit>2</reflectionRecursionLimit>
+		<glyphOSCMode>0</glyphOSCMode>
+		<animateFlag>0</animateFlag>
+		<parameterColorSpaceID>3</parameterColorSpaceID>
+		<savePreviewMovie>1</savePreviewMovie>
+	</sceneSettings>
+	<publishSettings>
+		<version>2</version>
+		<target object="1999725670" channel="./2/353/113/111" name="Subscribe Rectangle"/>
+		<target object="1999725675" channel="./14/16" name="Subscribe Text"/>
+		<target object="1999729095" channel="./2" name="Subscribe Elements"/>
+		<target object="1999729097" channel="./4" name="Subscribe Elements Glow"/>
+	</publishSettings>
+	<currentFrame>25600 153600 1 0</currentFrame>
+	<currentObject>1999722100</currentObject>
+	<activeLayer>1999725667</activeLayer>
+	<timeRange offset="0 1 1 0" duration="558080 153600 1 0"/>
+	<playRange offset="0 153600 1 0" duration="558080 153600 1 0"/>
+	<flags>1</flags>
+	<audioTracks>1</audioTracks>
+	<timemarkerset>
+		<timemarker>
+			<inpoint>0 153600 1 0</inpoint>
+			<color>1</color>
+			<type>3</type>
+		</timemarker>
+		<timemarker>
+			<inpoint>552960 153600 1 0</inpoint>
+			<color>1</color>
+			<type>5</type>
+		</timemarker>
+		<timemarker>
+			<inpoint>1433600 153600 1 0</inpoint>
+			<color>1</color>
+			<type>0</type>
+		</timemarker>
+	</timemarkerset>
+	<guideset/>
+	<curvesets selected="11">
+		<curveset name="Untitled Set 2" shortcut="" relative="0"/>
+	</curvesets>
+	<scenenode name="CCMMJJ" id="1999722100" factoryID="17" version="5">
+		<scenenode name="Widget" id="1999722101" factoryID="10" version="5">
+			<flags>0</flags>
+			<timing in="0 1 1 0" out="-5120 153600 1 0" offset="0 1 1 0"/>
+			<foldFlags>0</foldFlags>
+			<baseFlags>16</baseFlags>
+			<parameter name="Properties" id="1" flags="8589938704"/>
+			<parameter name="Object" id="2" flags="8589938704">
+				<parameter name="Options" id="103" flags="8589938688"/>
+				<parameter name="Hidden" id="102" flags="8589934608" default="0" value="1"/>
+				<parameter name="Snapshots" id="101" flags="8589938706"/>
+				<parameter name="Widget" id="100" flags="8589934608" default="1.7777777777777777" value="1.7777777777777777"/>
+			</parameter>
+		</scenenode>
+		<flags>0</flags>
+		<timing in="0 1 1 0" out="-5120 153600 1 0" offset="0 1 1 0"/>
+		<foldFlags>0</foldFlags>
+		<baseFlags>268435473</baseFlags>
+		<parameter name="Properties" id="1" flags="8589938704"/>
+		<parameter name="Object" id="2" flags="8589938704"/>
+	</scenenode>
+	<layer name="Group" id="1999725649">
+		<group name="S" id="1999725667">
+			<scenenode name="S1" id="1999725661" factoryID="11" version="5">
+				<validTracks>1</validTracks>
+				<aspectRatio>1</aspectRatio>
+				<flags>0</flags>
+				<linkedobjects>1999725662</linkedobjects>
+				<timing in="0 153600 1 0" out="552960 153600 1 0" offset="0 153600 1 0"/>
+				<foldFlags>16384</foldFlags>
+				<baseFlags>524304</baseFlags>
+				<parameter name="Properties" id="1" flags="8589938704">
+					<parameter name="Lighting" id="230" flags="8589938706">
+						<foldFlags>15</foldFlags>
+					</parameter>
+					<parameter name="Shadows" id="234" flags="8589938706">
+						<foldFlags>15</foldFlags>
+					</parameter>
+					<parameter name="Reflection" id="223" flags="8589971474">
+						<foldFlags>131087</foldFlags>
+					</parameter>
+					<parameter name="Media" id="324" flags="8589938704">
+						<parameter name="Source Media" id="300" flags="81604444176" default="1999725660" value="1999725660"/>
+						<parameter name="Source Media" id="325" flags="8590000146"/>
+					</parameter>
+					<parameter name="Page Number" id="301" flags="8589934610" default="1" value="1"/>
+					<parameter name="Retime Value" id="304" flags="8590066066">
+						<curve type="1" default="1" value="1" round="0" retimingExtrapolation="1">
+							<numberOfKeypoints>2</numberOfKeypoints>
+							<postExtrapolation>1</postExtrapolation>
+							<keypoint interpolation="1" flags="0">
+								<time>0 153600 1 0</time>
+								<value>1</value>
+							</keypoint>
+							<keypoint interpolation="1" flags="0">
+								<time>558080 153600 1 0</time>
+								<value>110</value>
+							</keypoint>
+						</curve>
+					</parameter>
+					<parameter name="Retime Value Cache" id="319" flags="8590065810">
+						<curve type="1" default="1" value="1">
+							<numberOfKeypoints>2</numberOfKeypoints>
+							<keypoint interpolation="1" flags="128">
+								<time>0 1 1 0</time>
+								<value>1</value>
+							</keypoint>
+							<keypoint interpolation="1" flags="128">
+								<time>558080 153600 1 0</time>
+								<value>110</value>
+							</keypoint>
+						</curve>
+					</parameter>
+					<parameter name="Duration Cache" id="320" flags="8589934610" default="0" value="109"/>
+				</parameter>
+				<parameter name="Object" id="2" flags="8589938704">
+					<parameter name="Width" id="313" flags="8589934610" default="1" value="1920"/>
+					<parameter name="Height" id="314" flags="8589934610" default="1" value="1080"/>
+				</parameter>
+				<filter name="Outer Glow" id="1999729097" factoryID="24" pluginUUID="A7077089-AA05-44F8-98E8-0C90E446F447" pluginVersion="3" pluginName="Outer Glow" pluginDynamicParams="0">
+					<timing in="0 153600 1 0" out="552960 153600 1 0" offset="0 153600 1 0"/>
+					<baseFlags>8589934608</baseFlags>
+					<parameter name="Radius" id="1" flags="12901679120" default="2" value="30"/>
+					<parameter name="Brightness" id="2" flags="12901679120" default="15" value="3"/>
+					<parameter name="Inner Color" id="3" flags="12884906000">
+						<foldFlags>15</foldFlags>
+						<parameter name="Red" id="1" flags="8606711824" default="1" value="1"/>
+						<parameter name="Green" id="2" flags="8606711824" default="1" value="1"/>
+						<parameter name="Blue" id="3" flags="8606711824" default="0" value="0"/>
+					</parameter>
+					<parameter name="Outer Color" id="4" flags="12884906000">
+						<foldFlags>15</foldFlags>
+						<parameter name="Red" id="1" flags="8606711824" default="1" value="0"/>
+						<parameter name="Green" id="2" flags="8606711824" default="0" value="0.6721917986869812"/>
+						<parameter name="Blue" id="3" flags="8606711824" default="0" value="1"/>
+					</parameter>
+					<parameter name="Range" id="5" flags="12901679120" default="0.25" value="1"/>
+					<parameter name="Horizontal" id="6" flags="12901679104" default="100" value="100"/>
+					<parameter name="Vertical" id="7" flags="12901679104" default="100" value="100"/>
+					<parameter name="Crop" id="8" flags="12901679104" default="0" value="0"/>
+					<parameter name="Mix" id="10001" flags="12901679104" default="1" value="1"/>
+					<parameter name="Flip" id="10002" flags="12889161760" default="0" value="0"/>
+					<parameter name="Input Points" id="10003" flags="12889161760" default="1" value="1"/>
+				</filter>
+				<filter name="Fill" id="1999729095" factoryID="24" pluginUUID="47D6B897-5749-4A6A-B93B-00FABCF72B25" pluginVersion="1" pluginName="Fill" pluginDynamicParams="0">
+					<timing in="0 153600 1 0" out="552960 153600 1 0" offset="0 153600 1 0"/>
+					<baseFlags>8589934608</baseFlags>
+					<parameter name="Fill With" id="1" flags="12884967440" default="0" value="0"/>
+					<parameter name="Color" id="2" flags="12884906000">
+						<foldFlags>15</foldFlags>
+						<parameter name="Red" id="1" flags="8589934608" default="0.5" value="0.99999600648880005"/>
+						<parameter name="Green" id="2" flags="8589934608" default="0.5" value="1"/>
+						<parameter name="Blue" id="3" flags="8589934608" default="0.5" value="1"/>
+					</parameter>
+					<parameter name="Gradient" id="3" flags="12889165872">
+						<foldFlags>15</foldFlags>
+					</parameter>
+					<parameter name="Mix" id="10001" flags="12884901888" default="1" value="1"/>
+					<parameter name="Flip" id="10002" flags="12889161760" default="0" value="0"/>
+					<parameter name="Input Points" id="10003" flags="12889161760" default="1" value="1"/>
+				</filter>
+				<behavior name="Link" id="1999729138" factoryID="12">
+					<dynamicChannelIDSet offsetChannelID="1999729139" rangeMinChannelID="1999729140" rangeMaxChannelID="1999729141"/>
+					<dynamicChannelIDSet offsetChannelID="1999729142" rangeMinChannelID="1999729143" rangeMaxChannelID="1999729144"/>
+					<dynamicChannelIDSet offsetChannelID="1999729145" rangeMinChannelID="1999729146" rangeMaxChannelID="1999729147"/>
+					<channelBehavior affectingFactory="deca4859b16011d7a12d0003936f6f92" affectingChannel="./3" sliderRange="1"/>
+					<timing in="0 153600 1 0" out="552960 153600 1 0" offset="0 153600 1 0"/>
+					<baseFlags>8589934608</baseFlags>
+					<parameter name="Affecting Object (Hidden)" id="199" flags="77309476882" default="0" value="1999729097"/>
+					<parameter name="Source Object" id="201" flags="77309476880" default="0" value="1999725661"/>
+					<parameter name="Mix Time Range" id="206" flags="8589934610" default="10" value="10"/>
+					<parameter name="Clamp Source Value Within Range" id="209" flags="8589934610" default="1" value="1"/>
+					<parameter name="Red min" id="1999729140" flags="8589934610" default="-100" value="-1"/>
+					<parameter name="Red max" id="1999729141" flags="8589934610" default="1" value="1"/>
+					<parameter name="Green min" id="1999729143" flags="8589934610" default="-100" value="-1"/>
+					<parameter name="Green max" id="1999729144" flags="8589934610" default="1" value="1"/>
+					<parameter name="Blue min" id="1999729146" flags="8589934610" default="-100" value="-1"/>
+					<parameter name="Blue max" id="1999729147" flags="8589934610" default="1" value="1"/>
+					<sourceParentChannelRef>./3/1999729097/4</sourceParentChannelRef>
+					<expressionChannels>
+						<sourceChannelRef>./3/1999729097/4/1</sourceChannelRef>
+						<targetChannelID>1</targetChannelID>
+						<offsetChannelRef>./1999729139</offsetChannelRef>
+						<minChannelRef>./1999729140</minChannelRef>
+						<maxChannelRef>./1999729141</maxChannelRef>
+					</expressionChannels>
+					<expressionChannels>
+						<sourceChannelRef>./3/1999729097/4/2</sourceChannelRef>
+						<targetChannelID>2</targetChannelID>
+						<offsetChannelRef>./1999729142</offsetChannelRef>
+						<minChannelRef>./1999729143</minChannelRef>
+						<maxChannelRef>./1999729144</maxChannelRef>
+					</expressionChannels>
+					<expressionChannels>
+						<sourceChannelRef>./3/1999729097/4/3</sourceChannelRef>
+						<targetChannelID>3</targetChannelID>
+						<offsetChannelRef>./1999729145</offsetChannelRef>
+						<minChannelRef>./1999729146</minChannelRef>
+						<maxChannelRef>./1999729147</maxChannelRef>
+					</expressionChannels>
+				</behavior>
+			</scenenode>
+			<group name="T S" id="1999728192">
+				<scenenode name="SUBSCRIBE" id="1999725673" factoryID="20" version="5">
+					<paragraphMarginsCached cached="1" left="0" right="436" top="0" bottom="-120"/>
+					<scrollMarginsCached cached="0"/>
+					<crawlMarginsCached cached="0"/>
+					<host hostID="0"/>
+					<textPathModified textPathModifiedVal="0"/>
+					<paragraphStyle id="10038">
+						<parameter name="Alignment" id="401" flags="8590000144" default="0" value="1"/>
+					</paragraphStyle>
+					<style name="Style" id="1999725675" factoryID="1">
+						<copyFlags>65535</copyFlags>
+						<previewWidth>0</previewWidth>
+						<previewHeight>0</previewHeight>
+						<presetName>Normal</presetName>
+						<timing in="46080 153600 1 0" out="471040 153600 1 0" offset="46080 153600 1 0"/>
+						<baseFlags>8657043569</baseFlags>
+						<foldFlags>851968</foldFlags>
+						<parameter name="Font" id="83" flags="12884906000">
+							<font>Helvetica-Bold</font>
+							<defaultFont>Helvetica</defaultFont>
+						</parameter>
+						<parameter name="Size" id="3" flags="8589934608" default="48" value="56"/>
+						<parameter name="Offset" id="9" flags="8589938704">
+							<foldFlags>15</foldFlags>
+							<parameter name="Y" id="2" flags="8589934608" default="0" value="-10.199999999999999"/>
+						</parameter>
+						<parameter name="Face" id="14" flags="8589938704">
+							<foldFlags>131072</foldFlags>
+							<parameter name="Color" id="16" flags="8589938704">
+								<foldFlags>15</foldFlags>
+								<parameter name="Green" id="2" flags="8589934608" default="1" value="0.96863192319869995"/>
+								<parameter name="Blue" id="3" flags="8589934608" default="1" value="0.96404904127120972"/>
+							</parameter>
+							<parameter name="Texture" id="18" flags="77313609744">
+								<parameter name="Image" id="1" flags="77309476880" default="0" value="0"/>
+								<parameter name="Wrap Mode" id="5" flags="8590000144" default="0" value="1"/>
+							</parameter>
+							<parameter name="Source Media" id="85" flags="8590000146"/>
+						</parameter>
+						<parameter name="Drop Shadow" id="21" flags="8589971472">
+							<foldFlags>131072</foldFlags>
+							<parameter name="Texture" id="25" flags="77313609744">
+								<parameter name="Image" id="1" flags="77309476880" default="0" value="0"/>
+								<parameter name="Wrap Mode" id="5" flags="8590000144" default="0" value="1"/>
+							</parameter>
+							<parameter name="Source Media" id="88" flags="8590000146"/>
+						</parameter>
+						<parameter name="Outline" id="30" flags="8589971472">
+							<foldFlags>131072</foldFlags>
+							<parameter name="Texture" id="34" flags="77313609744">
+								<parameter name="Image" id="1" flags="77309476880" default="0" value="0"/>
+								<parameter name="Wrap Mode" id="5" flags="8590000144" default="0" value="1"/>
+							</parameter>
+							<parameter name="Source Media" id="86" flags="8590000146"/>
+						</parameter>
+						<parameter name="Glow" id="38" flags="8589940752">
+							<foldFlags>131072</foldFlags>
+							<parameter name="Color" id="40" flags="8589938704">
+								<foldFlags>15</foldFlags>
+								<parameter name="Red" id="1" flags="8589934608" default="1" value="1"/>
+								<parameter name="Green" id="2" flags="8589934608" default="0.8784313725490196" value="0.8784313725490196"/>
+								<parameter name="Blue" id="3" flags="8589934608" default="0.2627450980392157" value="0.2627450980392157"/>
+							</parameter>
+							<parameter name="Texture" id="42" flags="77313609744">
+								<parameter name="Image" id="1" flags="77309476880" default="0" value="0"/>
+								<parameter name="Wrap Mode" id="5" flags="8590000144" default="0" value="1"/>
+							</parameter>
+							<parameter name="Source Media" id="87" flags="8590000146"/>
+							<parameter name="Blur" id="77" flags="8589938704">
+								<foldFlags>15</foldFlags>
+								<parameter name="X" id="1" flags="8589934608">
+									<curve type="1" default="1" value="10">
+										<numberOfKeypoints>2</numberOfKeypoints>
+										<min>0</min>
+										<keypoint interpolation="1" flags="0">
+											<time>0 153600 1 0</time>
+											<value>10</value>
+											<outputTangentTime>0.1222222222222222</outputTangentTime>
+											<outputTangentValue>-3.3333333333333335</outputTangentValue>
+										</keypoint>
+										<keypoint interpolation="1" flags="0">
+											<time>56320 153600 1 0</time>
+											<value>0</value>
+											<inputTangentTime>-0.1222222222222222</inputTangentTime>
+											<inputTangentValue>3.3333333333333335</inputTangentValue>
+											<outputTangentTime>0.1222222222222222</outputTangentTime>
+											<outputTangentValue>-3.3333333333333335</outputTangentValue>
+										</keypoint>
+									</curve>
+								</parameter>
+								<parameter name="Y" id="2" flags="8589934608">
+									<curve type="1" default="1" value="10">
+										<numberOfKeypoints>2</numberOfKeypoints>
+										<min>0</min>
+										<keypoint interpolation="1" flags="0">
+											<time>0 153600 1 0</time>
+											<value>10</value>
+											<outputTangentTime>0.1222222222222222</outputTangentTime>
+											<outputTangentValue>-3.3333333333333335</outputTangentValue>
+										</keypoint>
+										<keypoint interpolation="1" flags="0">
+											<time>56320 153600 1 0</time>
+											<value>0</value>
+											<inputTangentTime>-0.1222222222222222</inputTangentTime>
+											<inputTangentValue>3.3333333333333335</inputTangentValue>
+											<outputTangentTime>0.1222222222222222</outputTangentTime>
+											<outputTangentValue>-3.3333333333333335</outputTangentValue>
+										</keypoint>
+									</curve>
+								</parameter>
+							</parameter>
+							<parameter name="Radius" id="45" flags="8589934608">
+								<curve type="1" default="0" value="8">
+									<numberOfKeypoints>2</numberOfKeypoints>
+									<min>0</min>
+									<keypoint interpolation="1" flags="0">
+										<time>0 153600 1 0</time>
+										<value>8</value>
+										<outputTangentTime>0.1222222222222222</outputTangentTime>
+										<outputTangentValue>-2.6666666666666665</outputTangentValue>
+									</keypoint>
+									<keypoint interpolation="1" flags="0">
+										<time>56320 153600 1 0</time>
+										<value>0</value>
+										<inputTangentTime>-0.1222222222222222</inputTangentTime>
+										<inputTangentValue>2.6666666666666665</inputTangentValue>
+										<outputTangentTime>0.1222222222222222</outputTangentTime>
+										<outputTangentValue>-2.6666666666666665</outputTangentValue>
+									</keypoint>
+								</curve>
+							</parameter>
+						</parameter>
+						<parameter name="3D Text" id="89" flags="8589971472">
+							<foldFlags>131072</foldFlags>
+							<parameter name="Lighting" id="527" flags="8594133008">
+								<foldFlags>8388608</foldFlags>
+								<parameter name="Environment" id="512" flags="12884906000">
+									<foldFlags>131076</foldFlags>
+								</parameter>
+							</parameter>
+						</parameter>
+					</style>
+					<styleRun style="1999725675" offset="0" length="9"/>
+					<aspectRatio>1</aspectRatio>
+					<flags>0</flags>
+					<timing in="46080 153600 1 0" out="471040 153600 1 0" offset="46080 153600 1 0"/>
+					<foldFlags>0</foldFlags>
+					<baseFlags>34078736</baseFlags>
+					<parameter name="Properties" id="1" flags="8589938704">
+						<parameter name="Transform" id="100" flags="8589938704">
+							<parameter name="Position" id="101" flags="8589938704">
+								<foldFlags>11</foldFlags>
+								<parameter name="X" id="1" flags="8589934608" default="0" value="1.7020504569447326"/>
+								<parameter name="Y" id="2" flags="8589934608" default="0" value="1.080808430412759"/>
+							</parameter>
+							<parameter name="Anchor Point" id="107" flags="8589938704">
+								<foldFlags>15</foldFlags>
+								<parameter name="X" id="1" flags="8589934608" default="0" value="218.07486724852288"/>
+								<parameter name="Y" id="2" flags="8589934608" default="0" value="-60.333362579341383"/>
+							</parameter>
+						</parameter>
+						<parameter name="Lighting" id="230" flags="8589938706">
+							<foldFlags>15</foldFlags>
+						</parameter>
+						<parameter name="Shadows" id="234" flags="8589938706">
+							<foldFlags>15</foldFlags>
+						</parameter>
+						<parameter name="Reflection" id="223" flags="8589971474">
+							<foldFlags>131087</foldFlags>
+						</parameter>
+						<parameter name="Drop Shadow" id="208" flags="8589971474">
+							<foldFlags>131087</foldFlags>
+						</parameter>
+						<parameter name="Four Corner" id="207" flags="8589971458">
+							<foldFlags>131087</foldFlags>
+						</parameter>
+						<parameter name="Crop" id="216" flags="8589971474">
+							<foldFlags>131087</foldFlags>
+						</parameter>
+					</parameter>
+					<parameter name="Object" id="2" flags="8589938704">
+						<parameter name="Text" id="369" flags="8590000128">
+							<text>SUBSCRIBE</text>
+						</parameter>
+						<parameter name="Render Text" id="360" flags="8590000146" default="0" value="0"/>
+						<parameter name="Face Camera" id="352" flags="8589934610" default="0" value="0"/>
+						<parameter name="Layout Method" id="314" flags="8590000144" default="0" value="1"/>
+						<parameter name="Alignment" id="373" flags="8589938704">
+							<foldFlags>15</foldFlags>
+							<parameter name="Vertical Alignment" id="2" flags="8590000144" default="0" value="1"/>
+						</parameter>
+						<parameter name="Right Margin" id="324" flags="12884901904" default="436.14973449704576" value="436.14973449704576"/>
+						<parameter name="Bottom Margin" id="326" flags="12884901904" default="-120.66672515868277" value="-120.66672515868277"/>
+						<parameter name="Path Options" id="329" flags="8589938704">
+							<parameter name="Shape Source" id="339" flags="77309476880" default="0" value="0"/>
+							<parameter name="Align to Path" id="333" flags="8589934610" default="1" value="1"/>
+						</parameter>
+						<parameter name="Paragraphs" id="354" flags="8589938704">
+							<parameter name="Paragraph" id="10038" flags="8589938832">
+								<parameter name="Alignment" id="401" flags="8590000144" default="0" value="1"/>
+							</parameter>
+						</parameter>
+						<parameter name="Basic" id="2000" flags="12884938770" factoryID="0">
+							<parameter name="Substance" id="1999732291" flags="12884906002" factoryID="0">
+								<parameter name="Color" id="1" flags="4295004162">
+									<foldFlags>15</foldFlags>
+								</parameter>
+								<parameter name="Opacity" id="2" flags="4295000066" default="1" value="1"/>
+							</parameter>
+						</parameter>
+					</parameter>
+					<behavior name="Link" id="1999729505" factoryID="12">
+						<dynamicChannelIDSet offsetChannelID="1999729507" rangeMinChannelID="1999729508" rangeMaxChannelID="1999729509"/>
+						<dynamicChannelIDSet offsetChannelID="1999729510" rangeMinChannelID="1999729511" rangeMaxChannelID="1999729512"/>
+						<dynamicChannelIDSet offsetChannelID="1999729513" rangeMinChannelID="1999729514" rangeMaxChannelID="1999729515"/>
+						<channelBehavior affectingFactory="babfc7777f4711d7aaa7000393833f6a" affectingChannel="./5/1999725675/38/40" sliderRange="1"/>
+						<timing in="46080 153600 1 0" out="471040 153600 1 0" offset="46080 153600 1 0"/>
+						<baseFlags>8589934608</baseFlags>
+						<parameter name="Affecting Object (Hidden)" id="199" flags="77309476882" default="0" value="1999725673"/>
+						<parameter name="Source Object" id="201" flags="77309476880" default="0" value="1999725661"/>
+						<parameter name="Mix Time Range" id="206" flags="8589934610" default="10" value="10"/>
+						<parameter name="Clamp Source Value Within Range" id="209" flags="8589934610" default="1" value="1"/>
+						<parameter name="Red min" id="1999729508" flags="8589934610" default="-100" value="-1"/>
+						<parameter name="Red max" id="1999729509" flags="8589934610" default="1" value="1"/>
+						<parameter name="Green min" id="1999729511" flags="8589934610" default="-100" value="-1"/>
+						<parameter name="Green max" id="1999729512" flags="8589934610" default="1" value="1"/>
+						<parameter name="Blue min" id="1999729514" flags="8589934610" default="-100" value="-1"/>
+						<parameter name="Blue max" id="1999729515" flags="8589934610" default="1" value="1"/>
+						<sourceParentChannelRef>./3/1999729097/4</sourceParentChannelRef>
+						<expressionChannels>
+							<sourceChannelRef>./3/1999729097/4/1</sourceChannelRef>
+							<targetChannelID>1</targetChannelID>
+							<offsetChannelRef>./1999729507</offsetChannelRef>
+							<minChannelRef>./1999729508</minChannelRef>
+							<maxChannelRef>./1999729509</maxChannelRef>
+						</expressionChannels>
+						<expressionChannels>
+							<sourceChannelRef>./3/1999729097/4/2</sourceChannelRef>
+							<targetChannelID>2</targetChannelID>
+							<offsetChannelRef>./1999729510</offsetChannelRef>
+							<minChannelRef>./1999729511</minChannelRef>
+							<maxChannelRef>./1999729512</maxChannelRef>
+						</expressionChannels>
+						<expressionChannels>
+							<sourceChannelRef>./3/1999729097/4/3</sourceChannelRef>
+							<targetChannelID>3</targetChannelID>
+							<offsetChannelRef>./1999729513</offsetChannelRef>
+							<minChannelRef>./1999729514</minChannelRef>
+							<maxChannelRef>./1999729515</maxChannelRef>
+						</expressionChannels>
+					</behavior>
+				</scenenode>
+				<scenenode name="Rectangle" id="1999725670" factoryID="15" version="5">
+					<isShapeStyle>0</isShapeStyle>
+					<aspectRatio>1</aspectRatio>
+					<flags>0</flags>
+					<timing in="46080 153600 1 0" out="471040 153600 1 0" offset="46080 153600 1 0"/>
+					<foldFlags>0</foldFlags>
+					<baseFlags>524368</baseFlags>
+					<parameter name="Properties" id="1" flags="8589938704">
+						<parameter name="Transform" id="100" flags="8589938704">
+							<parameter name="Scale" id="105" flags="8589938704">
+								<foldFlags>11</foldFlags>
+								<parameter name="X" id="1" flags="8589934608" default="1" value="0.98149954356451052"/>
+								<parameter name="Y" id="2" flags="8589934608" default="1" value="1.0024608676178806"/>
+							</parameter>
+						</parameter>
+						<parameter name="Lighting" id="230" flags="8589938706">
+							<foldFlags>15</foldFlags>
+						</parameter>
+						<parameter name="Shadows" id="234" flags="8589938706">
+							<foldFlags>15</foldFlags>
+						</parameter>
+						<parameter name="Reflection" id="223" flags="8589971474">
+							<foldFlags>131087</foldFlags>
+						</parameter>
+					</parameter>
+					<parameter name="Object" id="2" flags="8589938704">
+						<parameter name="Shape" id="353" flags="8589938704">
+							<parameter name="Animation" id="117" flags="8589934610" default="0" value="0">
+								<curve_X/>
+								<curve_Y/>
+								<closed>0</closed>
+							</parameter>
+							<parameter name="Shape Type" id="100" flags="12884967442" default="5" value="5"/>
+							<parameter name="Closed" id="116" flags="8590000146" default="0" value="1"/>
+							<parameter name="Roundness" id="144" flags="8589934608" default="0" value="10"/>
+							<parameter name="Fill" id="113" flags="8589938704">
+								<foldFlags>131072</foldFlags>
+								<parameter name="Fill Color" id="111" flags="12884906000">
+									<foldFlags>15</foldFlags>
+									<parameter name="Green" id="2" flags="8589934608" default="1" value="0.1491314172744751"/>
+									<parameter name="Blue" id="3" flags="8589934608" default="1" value="0"/>
+								</parameter>
+							</parameter>
+							<parameter name="Outline" id="108" flags="8589971472">
+								<foldFlags>131072</foldFlags>
+								<parameter name="Arrow Length" id="132" flags="8589934610" default="3" value="3"/>
+								<parameter name="Arrow Width" id="133" flags="8589934610" default="3" value="3"/>
+								<parameter name="Pressure Over Stroke" id="136" flags="8724348946">
+									<curve type="1" default="1" value="1" round="0">
+										<numberOfKeypoints>2</numberOfKeypoints>
+										<min>0</min>
+										<max>1</max>
+										<keypoint interpolation="1" flags="0">
+											<time>0 1 1 0</time>
+											<value>1</value>
+											<outputTangentTime>0.33333333333333331</outputTangentTime>
+											<outputTangentValue>0</outputTangentValue>
+										</keypoint>
+										<keypoint interpolation="1" flags="0">
+											<time>1 1 1 0</time>
+											<value>1</value>
+											<inputTangentTime>-0.33333333333333331</inputTangentTime>
+											<inputTangentValue>0</inputTangentValue>
+											<outputTangentTime>0.33333333333333331</outputTangentTime>
+											<outputTangentValue>-0</outputTangentValue>
+										</keypoint>
+									</curve>
+									<rangeName>Stroke Length</rangeName>
+								</parameter>
+								<parameter name="Pen Speed Over Stroke" id="138" flags="8724348946">
+									<curve type="1" default="1" value="1" round="0">
+										<numberOfKeypoints>2</numberOfKeypoints>
+										<min>0</min>
+										<max>1</max>
+										<keypoint interpolation="1" flags="0">
+											<time>0 1 1 0</time>
+											<value>1</value>
+											<outputTangentTime>0.33333333333333331</outputTangentTime>
+											<outputTangentValue>0</outputTangentValue>
+										</keypoint>
+										<keypoint interpolation="1" flags="0">
+											<time>1 1 1 0</time>
+											<value>1</value>
+											<inputTangentTime>-0.33333333333333331</inputTangentTime>
+											<inputTangentValue>0</inputTangentValue>
+											<outputTangentTime>0.33333333333333331</outputTangentTime>
+											<outputTangentValue>-0</outputTangentValue>
+										</keypoint>
+									</curve>
+									<rangeName>Stroke Length</rangeName>
+								</parameter>
+							</parameter>
+							<parameter name="Size" id="160" flags="8589938704">
+								<foldFlags>8388623</foldFlags>
+								<parameter name="Width" id="1" flags="12884901904" default="451.99082946777344" value="451.99082946777344"/>
+								<parameter name="Height" id="2" flags="12884901904" default="124.93482971191406" value="124.93482971191406"/>
+							</parameter>
+							<parameter name="Completed" id="157" flags="8589934610" default="0" value="1"/>
+						</parameter>
+					</parameter>
+				</scenenode>
+				<mask name="Bezier Mask" id="1999728193" factoryID="15">
+					<isShapeStyle>0</isShapeStyle>
+					<aspectRatio>1</aspectRatio>
+					<flags>8</flags>
+					<timing in="430080 153600 1 0" out="552960 153600 1 0" offset="0 1 1 0"/>
+					<foldFlags>0</foldFlags>
+					<baseFlags>80</baseFlags>
+					<parameter name="Properties" id="1" flags="8589938704">
+						<parameter name="Transform" id="100" flags="8589938704">
+							<parameter name="Position" id="101" flags="8589938704">
+								<foldFlags>11</foldFlags>
+								<parameter name="X" id="1" flags="8589934608" default="0" value="-3.3517837524414062"/>
+								<parameter name="Y" id="2" flags="8589934608" default="0" value="0.54523332463577034"/>
+								<parameter name="Z" id="3" flags="8589934610" default="0" value="0"/>
+							</parameter>
+						</parameter>
+						<parameter name="Lighting" id="230" flags="8589938706">
+							<foldFlags>15</foldFlags>
+						</parameter>
+						<parameter name="Shadows" id="234" flags="8589938706">
+							<foldFlags>15</foldFlags>
+						</parameter>
+						<parameter name="Reflection" id="223" flags="8589971474">
+							<foldFlags>131087</foldFlags>
+						</parameter>
+						<parameter name="Crop" id="216" flags="8589971474">
+							<foldFlags>131087</foldFlags>
+						</parameter>
+					</parameter>
+					<parameter name="Object" id="2" flags="8589938704">
+						<parameter name="Shape" id="353" flags="8589938704">
+							<parameter name="Animation" id="117" flags="8589934608">
+								<curve_X>
+									<vertex index="0" id="371" flags="8">
+										<vertex_folder name="Vertex" id="371" flags="8590004240">
+											<parameter name="Enabled" id="1" flags="8590000144">
+												<curve type="1" default="1" value="1">
+													<numberOfKeypoints>8</numberOfKeypoints>
+													<keypoint interpolation="0" flags="0">
+														<time>430080 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+													<keypoint interpolation="0" flags="0">
+														<time>435200 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+													<keypoint interpolation="0" flags="0">
+														<time>440320 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+													<keypoint interpolation="0" flags="0">
+														<time>445440 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+													<keypoint interpolation="0" flags="0">
+														<time>450560 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+													<keypoint interpolation="0" flags="0">
+														<time>460800 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+													<keypoint interpolation="0" flags="0">
+														<time>465920 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+													<keypoint interpolation="0" flags="0">
+														<time>471040 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+												</curve>
+											</parameter>
+											<parameter name="Value" id="2" flags="12884967440">
+												<curve type="1" default="-2.9213595390319824" value="-2.0821323394815172">
+													<numberOfKeypoints>8</numberOfKeypoints>
+													<keypoint interpolation="1" flags="0">
+														<time>430080 153600 1 0</time>
+														<value>-2.0821323394815172</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>435200 153600 1 0</time>
+														<value>-1.032323589385487</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>440320 153600 1 0</time>
+														<value>3.1916232799869548</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>445440 153600 1 0</time>
+														<value>8.2327222024765376</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>450560 153600 1 0</time>
+														<value>13.273821124966119</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>460800 153600 1 0</time>
+														<value>3.701220879493123</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>465920 153600 1 0</time>
+														<value>3.701220879493123</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>471040 153600 1 0</time>
+														<value>6.0544331168513903</value>
+													</keypoint>
+												</curve>
+											</parameter>
+											<parameter name="Bias" id="3" flags="8590000144">
+												<curve type="1" default="1" value="1">
+													<numberOfKeypoints>8</numberOfKeypoints>
+													<keypoint interpolation="1" flags="0">
+														<time>430080 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>435200 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>440320 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>445440 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>450560 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>460800 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>465920 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>471040 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+												</curve>
+											</parameter>
+											<parameter name="Input Tangent" id="4" flags="8590000144">
+												<curve type="1" default="0" value="-16.263373952266139">
+													<numberOfKeypoints>8</numberOfKeypoints>
+													<keypoint interpolation="1" flags="0">
+														<time>430080 153600 1 0</time>
+														<value>-16.263373952266139</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>435200 153600 1 0</time>
+														<value>-16.263373952266139</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>440320 153600 1 0</time>
+														<value>-16.263373952266139</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>445440 153600 1 0</time>
+														<value>-86.084646756534568</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>450560 153600 1 0</time>
+														<value>-155.905919560803</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>460800 153600 1 0</time>
+														<value>-155.905919560803</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>465920 153600 1 0</time>
+														<value>-155.905919560803</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>471040 153600 1 0</time>
+														<value>-155.905919560803</value>
+													</keypoint>
+												</curve>
+											</parameter>
+											<parameter name="Output Tangent" id="5" flags="8590000144">
+												<curve type="1" default="0" value="18.144873030122241">
+													<numberOfKeypoints>8</numberOfKeypoints>
+													<keypoint interpolation="1" flags="0">
+														<time>430080 153600 1 0</time>
+														<value>18.144873030122241</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>435200 153600 1 0</time>
+														<value>18.144873030122241</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>440320 153600 1 0</time>
+														<value>18.144873030122241</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>445440 153600 1 0</time>
+														<value>77.047300997929455</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>450560 153600 1 0</time>
+														<value>135.94972896573665</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>460800 153600 1 0</time>
+														<value>135.94972896573665</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>465920 153600 1 0</time>
+														<value>135.94972896573665</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>471040 153600 1 0</time>
+														<value>135.94972896573665</value>
+													</keypoint>
+												</curve>
+											</parameter>
+										</vertex_folder>
+									</vertex>
+									<vertex index="1" id="373" flags="8">
+										<vertex_folder name="Vertex" id="373" flags="8590004240">
+											<parameter name="Enabled" id="1" flags="8590000144">
+												<curve type="1" default="1" value="1">
+													<numberOfKeypoints>8</numberOfKeypoints>
+													<keypoint interpolation="0" flags="0">
+														<time>430080 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+													<keypoint interpolation="0" flags="0">
+														<time>435200 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+													<keypoint interpolation="0" flags="0">
+														<time>440320 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+													<keypoint interpolation="0" flags="0">
+														<time>445440 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+													<keypoint interpolation="0" flags="0">
+														<time>450560 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+													<keypoint interpolation="0" flags="0">
+														<time>460800 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+													<keypoint interpolation="0" flags="0">
+														<time>465920 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+													<keypoint interpolation="0" flags="0">
+														<time>471040 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+												</curve>
+											</parameter>
+											<parameter name="Value" id="2" flags="12884967440">
+												<curve type="1" default="51.2318115234375" value="45.027904510496278">
+													<numberOfKeypoints>8</numberOfKeypoints>
+													<keypoint interpolation="1" flags="0">
+														<time>430080 153600 1 0</time>
+														<value>45.027904510496278</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>435200 153600 1 0</time>
+														<value>76.498101482323051</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>440320 153600 1 0</time>
+														<value>106.98407865516725</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>445440 153600 1 0</time>
+														<value>140.80720640175406</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>450560 153600 1 0</time>
+														<value>174.63033414834084</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>460800 153600 1 0</time>
+														<value>254.28688932412993</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>465920 153600 1 0</time>
+														<value>280.12433744431536</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>471040 153600 1 0</time>
+														<value>280.12433744431536</value>
+													</keypoint>
+												</curve>
+											</parameter>
+											<parameter name="Bias" id="3" flags="8590000144">
+												<curve type="1" default="1" value="1">
+													<numberOfKeypoints>8</numberOfKeypoints>
+													<keypoint interpolation="1" flags="0">
+														<time>430080 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>435200 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>440320 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>445440 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>450560 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>460800 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>465920 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>471040 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+												</curve>
+											</parameter>
+											<parameter name="Input Tangent" id="4" flags="12884967440">
+												<curve type="1" default="0.60197448730468706" value="0.60197448730347247">
+													<numberOfKeypoints>8</numberOfKeypoints>
+													<keypoint interpolation="1" flags="0">
+														<time>430080 153600 1 0</time>
+														<value>0.60197448730347247</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>435200 153600 1 0</time>
+														<value>4.156126137580884</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>440320 153600 1 0</time>
+														<value>8.2749098255425046</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>445440 153600 1 0</time>
+														<value>8.6498802951134319</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>450560 153600 1 0</time>
+														<value>9.0248507646843592</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>460800 153600 1 0</time>
+														<value>-7.4261540691039531</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>465920 153600 1 0</time>
+														<value>-3.1494750977385024</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>471040 153600 1 0</time>
+														<value>-3.1494750977385024</value>
+													</keypoint>
+												</curve>
+											</parameter>
+											<parameter name="Output Tangent" id="5" flags="12884967440">
+												<curve type="1" default="-0.6019744873046875" value="-0.60197448730365011">
+													<numberOfKeypoints>8</numberOfKeypoints>
+													<keypoint interpolation="1" flags="0">
+														<time>430080 153600 1 0</time>
+														<value>-0.60197448730365011</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>435200 153600 1 0</time>
+														<value>-2.9791717529403456</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>440320 153600 1 0</time>
+														<value>-9.9385757446155196</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>445440 153600 1 0</time>
+														<value>-7.6470603942792366</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>450560 153600 1 0</time>
+														<value>-5.3555450439429535</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>460800 153600 1 0</time>
+														<value>4.0856170653526931</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>465920 153600 1 0</time>
+														<value>1.3347124390373559</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>471040 153600 1 0</time>
+														<value>1.3347124390373559</value>
+													</keypoint>
+												</curve>
+											</parameter>
+										</vertex_folder>
+									</vertex>
+									<vertex index="2" id="375" flags="8">
+										<vertex_folder name="Vertex" id="375" flags="8590004240">
+											<parameter name="Enabled" id="1" flags="8590000144">
+												<curve type="1" default="1" value="1">
+													<numberOfKeypoints>8</numberOfKeypoints>
+													<keypoint interpolation="0" flags="0">
+														<time>430080 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+													<keypoint interpolation="0" flags="0">
+														<time>435200 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+													<keypoint interpolation="0" flags="0">
+														<time>440320 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+													<keypoint interpolation="0" flags="0">
+														<time>445440 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+													<keypoint interpolation="0" flags="0">
+														<time>450560 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+													<keypoint interpolation="0" flags="0">
+														<time>460800 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+													<keypoint interpolation="0" flags="0">
+														<time>465920 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+													<keypoint interpolation="0" flags="0">
+														<time>471040 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+												</curve>
+											</parameter>
+											<parameter name="Value" id="2" flags="12884967440">
+												<curve type="1" default="3.8880662322044373" value="3.8880662322040349">
+													<numberOfKeypoints>8</numberOfKeypoints>
+													<keypoint interpolation="1" flags="0">
+														<time>430080 153600 1 0</time>
+														<value>1.7598992586134794</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>435200 153600 1 0</time>
+														<value>1.1373183822021087</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>440320 153600 1 0</time>
+														<value>6.8127710913990445</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>445440 153600 1 0</time>
+														<value>6.862822780546213</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>450560 153600 1 0</time>
+														<value>6.0619921779023711</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>460800 153600 1 0</time>
+														<value>3.3872435187682379</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>465920 153600 1 0</time>
+														<value>4.3744920586925042</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>471040 153600 1 0</time>
+														<value>5.9670372104037552</value>
+													</keypoint>
+												</curve>
+											</parameter>
+											<parameter name="Bias" id="3" flags="8590000144">
+												<curve type="1" default="1" value="1">
+													<numberOfKeypoints>8</numberOfKeypoints>
+													<keypoint interpolation="1" flags="0">
+														<time>430080 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>435200 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>440320 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>445440 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>450560 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>460800 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>465920 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>471040 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+												</curve>
+											</parameter>
+											<parameter name="Input Tangent" id="4" flags="12884967440">
+												<curve type="1" default="13.296617448329927" value="13.296617448330384">
+													<numberOfKeypoints>8</numberOfKeypoints>
+													<keypoint interpolation="1" flags="0">
+														<time>430080 153600 1 0</time>
+														<value>13.296617448330384</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>435200 153600 1 0</time>
+														<value>13.296617448330384</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>440320 153600 1 0</time>
+														<value>13.296617448330384</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>445440 153600 1 0</time>
+														<value>56.659122285320407</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>450560 153600 1 0</time>
+														<value>100.02162712231043</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>460800 153600 1 0</time>
+														<value>100.03348557518882</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>465920 153600 1 0</time>
+														<value>100.03348557518882</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>471040 153600 1 0</time>
+														<value>176.33230388159825</value>
+													</keypoint>
+												</curve>
+											</parameter>
+											<parameter name="Output Tangent" id="5" flags="12884967440">
+												<curve type="1" default="-13.296617448329926" value="-13.296617448334281">
+													<numberOfKeypoints>8</numberOfKeypoints>
+													<keypoint interpolation="1" flags="0">
+														<time>430080 153600 1 0</time>
+														<value>-13.296617448334281</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>435200 153600 1 0</time>
+														<value>-13.296617448334281</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>440320 153600 1 0</time>
+														<value>-13.296617448334281</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>445440 153600 1 0</time>
+														<value>-76.211778730146719</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>450560 153600 1 0</time>
+														<value>-139.12694001195916</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>460800 153600 1 0</time>
+														<value>-196.88467592004753</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>465920 153600 1 0</time>
+														<value>-196.88467592004753</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>471040 153600 1 0</time>
+														<value>-270.24305167170655</value>
+													</keypoint>
+												</curve>
+											</parameter>
+										</vertex_folder>
+									</vertex>
+									<vertex index="3" id="377" flags="8">
+										<vertex_folder name="Vertex" id="377" flags="8590004240">
+											<parameter name="Enabled" id="1" flags="8590000144">
+												<curve type="1" default="1" value="1">
+													<numberOfKeypoints>8</numberOfKeypoints>
+													<keypoint interpolation="0" flags="0">
+														<time>430080 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+													<keypoint interpolation="0" flags="0">
+														<time>435200 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+													<keypoint interpolation="0" flags="0">
+														<time>440320 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+													<keypoint interpolation="0" flags="0">
+														<time>445440 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+													<keypoint interpolation="0" flags="0">
+														<time>450560 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+													<keypoint interpolation="0" flags="0">
+														<time>460800 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+													<keypoint interpolation="0" flags="0">
+														<time>465920 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+													<keypoint interpolation="0" flags="0">
+														<time>471040 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+												</curve>
+											</parameter>
+											<parameter name="Value" id="2" flags="12884967440">
+												<curve type="1" default="-51.2318115234375" value="-51.231811523452087">
+													<numberOfKeypoints>8</numberOfKeypoints>
+													<keypoint interpolation="1" flags="0">
+														<time>430080 153600 1 0</time>
+														<value>-54.874182453213933</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>435200 153600 1 0</time>
+														<value>-83.043486347259574</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>440320 153600 1 0</time>
+														<value>-104.96840547570588</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>445440 153600 1 0</time>
+														<value>-129.65706514367346</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>450560 153600 1 0</time>
+														<value>-168.3754794502496</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>460800 153600 1 0</time>
+														<value>-252.72444795620288</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>465920 153600 1 0</time>
+														<value>-303.02556489946318</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>471040 153600 1 0</time>
+														<value>-303.02556489946318</value>
+													</keypoint>
+												</curve>
+											</parameter>
+											<parameter name="Bias" id="3" flags="8590000144">
+												<curve type="1" default="1" value="1">
+													<numberOfKeypoints>8</numberOfKeypoints>
+													<keypoint interpolation="1" flags="0">
+														<time>430080 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>435200 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>440320 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>445440 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>450560 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>460800 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>465920 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>471040 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+												</curve>
+											</parameter>
+											<parameter name="Input Tangent" id="4" flags="12884967440">
+												<curve type="1" default="-0.30098724365234375" value="-0.30098724365255691">
+													<numberOfKeypoints>8</numberOfKeypoints>
+													<keypoint interpolation="1" flags="0">
+														<time>430080 153600 1 0</time>
+														<value>0.4880567780150088</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>435200 153600 1 0</time>
+														<value>0.029369374979733354</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>440320 153600 1 0</time>
+														<value>-0.090058782047488517</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>445440 153600 1 0</time>
+														<value>-0.090058782047488517</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>450560 153600 1 0</time>
+														<value>-0.090058782047488517</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>460800 153600 1 0</time>
+														<value>-2.8919724113340419</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>465920 153600 1 0</time>
+														<value>-2.8919724113340419</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>471040 153600 1 0</time>
+														<value>-2.8919724113340419</value>
+													</keypoint>
+												</curve>
+											</parameter>
+											<parameter name="Output Tangent" id="5" flags="12884967440">
+												<curve type="1" default="0.30098724365234375" value="0.30098724364562202">
+													<numberOfKeypoints>8</numberOfKeypoints>
+													<keypoint interpolation="1" flags="0">
+														<time>430080 153600 1 0</time>
+														<value>-0.41430282592717305</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>435200 153600 1 0</time>
+														<value>-0.015235900895078203</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>440320 153600 1 0</time>
+														<value>0.069633483905533922</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>445440 153600 1 0</time>
+														<value>0.069633483905533922</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>450560 153600 1 0</time>
+														<value>0.069633483905533922</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>460800 153600 1 0</time>
+														<value>6.7461242675257438</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>465920 153600 1 0</time>
+														<value>6.7461242675257438</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>471040 153600 1 0</time>
+														<value>6.7461242675257438</value>
+													</keypoint>
+												</curve>
+											</parameter>
+										</vertex_folder>
+									</vertex>
+								</curve_X>
+								<curve_Y>
+									<vertex index="0" id="372" flags="8">
+										<vertex_folder name="Vertex" id="372" flags="8590004240">
+											<parameter name="Enabled" id="1" flags="8590000144">
+												<curve type="1" default="1" value="1">
+													<numberOfKeypoints>8</numberOfKeypoints>
+													<keypoint interpolation="0" flags="0">
+														<time>430080 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+													<keypoint interpolation="0" flags="0">
+														<time>435200 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+													<keypoint interpolation="0" flags="0">
+														<time>440320 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+													<keypoint interpolation="0" flags="0">
+														<time>445440 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+													<keypoint interpolation="0" flags="0">
+														<time>450560 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+													<keypoint interpolation="0" flags="0">
+														<time>460800 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+													<keypoint interpolation="0" flags="0">
+														<time>465920 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+													<keypoint interpolation="0" flags="0">
+														<time>471040 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+												</curve>
+											</parameter>
+											<parameter name="Value" id="2" flags="12884967440">
+												<curve type="1" default="8.1571077550761437" value="6.3370117391515599">
+													<numberOfKeypoints>8</numberOfKeypoints>
+													<keypoint interpolation="1" flags="0">
+														<time>430080 153600 1 0</time>
+														<value>6.3370117391515599</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>435200 153600 1 0</time>
+														<value>18.038365556824129</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>440320 153600 1 0</time>
+														<value>27.848542406196358</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>445440 153600 1 0</time>
+														<value>36.316021158322613</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>450560 153600 1 0</time>
+														<value>44.783499910448867</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>460800 153600 1 0</time>
+														<value>64.072810365791739</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>465920 153600 1 0</time>
+														<value>64.072810365791739</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>471040 153600 1 0</time>
+														<value>73.935584261038457</value>
+													</keypoint>
+												</curve>
+											</parameter>
+											<parameter name="Bias" id="3" flags="8590000144">
+												<curve type="1" default="1" value="1">
+													<numberOfKeypoints>8</numberOfKeypoints>
+													<keypoint interpolation="1" flags="0">
+														<time>430080 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>435200 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>440320 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>445440 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>450560 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>460800 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>465920 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>471040 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+												</curve>
+											</parameter>
+											<parameter name="Input Tangent" id="4" flags="8590000144">
+												<curve type="1" default="0" value="-0.2034608086238312">
+													<numberOfKeypoints>8</numberOfKeypoints>
+													<keypoint interpolation="1" flags="0">
+														<time>430080 153600 1 0</time>
+														<value>-0.2034608086238312</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>435200 153600 1 0</time>
+														<value>-0.2034608086238312</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>440320 153600 1 0</time>
+														<value>-0.2034608086238312</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>445440 153600 1 0</time>
+														<value>-1.4069365592382124</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>450560 153600 1 0</time>
+														<value>-2.6104123098525935</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>460800 153600 1 0</time>
+														<value>-2.6104123098525935</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>465920 153600 1 0</time>
+														<value>-2.6104123098525935</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>471040 153600 1 0</time>
+														<value>-2.6104123098525935</value>
+													</keypoint>
+												</curve>
+											</parameter>
+											<parameter name="Output Tangent" id="5" flags="8590000144">
+												<curve type="1" default="0" value="0.22699905627952466">
+													<numberOfKeypoints>8</numberOfKeypoints>
+													<keypoint interpolation="1" flags="0">
+														<time>430080 153600 1 0</time>
+														<value>0.22699905627952466</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>435200 153600 1 0</time>
+														<value>0.22699905627952466</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>440320 153600 1 0</time>
+														<value>0.22699905627952466</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>445440 153600 1 0</time>
+														<value>1.25163734552676</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>450560 153600 1 0</time>
+														<value>2.2762756347739952</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>460800 153600 1 0</time>
+														<value>2.2762756347739952</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>465920 153600 1 0</time>
+														<value>2.2762756347739952</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>471040 153600 1 0</time>
+														<value>2.2762756347739952</value>
+													</keypoint>
+												</curve>
+											</parameter>
+										</vertex_folder>
+									</vertex>
+									<vertex index="1" id="374" flags="8">
+										<vertex_folder name="Vertex" id="374" flags="8590004240">
+											<parameter name="Enabled" id="1" flags="8590000144">
+												<curve type="1" default="1" value="1">
+													<numberOfKeypoints>8</numberOfKeypoints>
+													<keypoint interpolation="0" flags="0">
+														<time>430080 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+													<keypoint interpolation="0" flags="0">
+														<time>435200 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+													<keypoint interpolation="0" flags="0">
+														<time>440320 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+													<keypoint interpolation="0" flags="0">
+														<time>445440 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+													<keypoint interpolation="0" flags="0">
+														<time>450560 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+													<keypoint interpolation="0" flags="0">
+														<time>460800 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+													<keypoint interpolation="0" flags="0">
+														<time>465920 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+													<keypoint interpolation="0" flags="0">
+														<time>471040 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+												</curve>
+											</parameter>
+											<parameter name="Value" id="2" flags="12884967440">
+												<curve type="1" default="2.587047025095675" value="1.0714804376471427">
+													<numberOfKeypoints>8</numberOfKeypoints>
+													<keypoint interpolation="1" flags="0">
+														<time>430080 153600 1 0</time>
+														<value>1.0714804376471427</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>435200 153600 1 0</time>
+														<value>2.1196780940203901</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>440320 153600 1 0</time>
+														<value>2.6506638070253672</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>445440 153600 1 0</time>
+														<value>-2.5786740044444429</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>450560 153600 1 0</time>
+														<value>-7.8080118159142531</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>460800 153600 1 0</time>
+														<value>-9.1594140986294299</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>465920 153600 1 0</time>
+														<value>-8.7861345270982003</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>471040 153600 1 0</time>
+														<value>-8.7861345270982003</value>
+													</keypoint>
+												</curve>
+											</parameter>
+											<parameter name="Bias" id="3" flags="8590000144">
+												<curve type="1" default="1" value="1">
+													<numberOfKeypoints>8</numberOfKeypoints>
+													<keypoint interpolation="1" flags="0">
+														<time>430080 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>435200 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>440320 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>445440 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>450560 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>460800 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>465920 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>471040 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+												</curve>
+											</parameter>
+											<parameter name="Input Tangent" id="4" flags="12884967440">
+												<curve type="1" default="11.6039981842041" value="11.603998184205295">
+													<numberOfKeypoints>8</numberOfKeypoints>
+													<keypoint interpolation="1" flags="0">
+														<time>430080 153600 1 0</time>
+														<value>11.603998184205295</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>435200 153600 1 0</time>
+														<value>20.874783324877523</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>440320 153600 1 0</time>
+														<value>19.61009512244161</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>445440 153600 1 0</time>
+														<value>29.162125577450347</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>450560 153600 1 0</time>
+														<value>38.714156032459087</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>460800 153600 1 0</time>
+														<value>68.216859499693314</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>465920 153600 1 0</time>
+														<value>89.027161598200848</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>471040 153600 1 0</time>
+														<value>89.027161598200848</value>
+													</keypoint>
+												</curve>
+											</parameter>
+											<parameter name="Output Tangent" id="5" flags="12884967440">
+												<curve type="1" default="-11.603998184204102" value="-11.603998184206091">
+													<numberOfKeypoints>8</numberOfKeypoints>
+													<keypoint interpolation="1" flags="0">
+														<time>430080 153600 1 0</time>
+														<value>-11.603998184206091</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>435200 153600 1 0</time>
+														<value>-14.963348746296601</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>440320 153600 1 0</time>
+														<value>-23.552693605421563</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>445440 153600 1 0</time>
+														<value>-23.26326286792678</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>450560 153600 1 0</time>
+														<value>-22.973832130431997</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>460800 153600 1 0</time>
+														<value>-37.530592918384428</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>465920 153600 1 0</time>
+														<value>-37.728718694321799</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>471040 153600 1 0</time>
+														<value>-37.728718694321799</value>
+													</keypoint>
+												</curve>
+											</parameter>
+										</vertex_folder>
+									</vertex>
+									<vertex index="2" id="376" flags="8">
+										<vertex_folder name="Vertex" id="376" flags="8590004240">
+											<parameter name="Enabled" id="1" flags="8590000144">
+												<curve type="1" default="1" value="1">
+													<numberOfKeypoints>8</numberOfKeypoints>
+													<keypoint interpolation="0" flags="0">
+														<time>430080 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+													<keypoint interpolation="0" flags="0">
+														<time>435200 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+													<keypoint interpolation="0" flags="0">
+														<time>440320 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+													<keypoint interpolation="0" flags="0">
+														<time>445440 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+													<keypoint interpolation="0" flags="0">
+														<time>450560 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+													<keypoint interpolation="0" flags="0">
+														<time>460800 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+													<keypoint interpolation="0" flags="0">
+														<time>465920 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+													<keypoint interpolation="0" flags="0">
+														<time>471040 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+												</curve>
+											</parameter>
+											<parameter name="Value" id="2" flags="12884967440">
+												<curve type="1" default="-9.3710561548359657" value="-9.3710561548364115">
+													<numberOfKeypoints>8</numberOfKeypoints>
+													<keypoint interpolation="1" flags="0">
+														<time>430080 153600 1 0</time>
+														<value>-9.9553275858067813</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>435200 153600 1 0</time>
+														<value>-14.151549146538441</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>440320 153600 1 0</time>
+														<value>-21.611462400324086</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>445440 153600 1 0</time>
+														<value>-33.465061948656</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>450560 153600 1 0</time>
+														<value>-41.260105893977169</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>460800 153600 1 0</time>
+														<value>-59.893242643237656</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>465920 153600 1 0</time>
+														<value>-70.286865995284558</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>471040 153600 1 0</time>
+														<value>-67.936890409382158</value>
+													</keypoint>
+												</curve>
+											</parameter>
+											<parameter name="Bias" id="3" flags="8590000144">
+												<curve type="1" default="1" value="1">
+													<numberOfKeypoints>8</numberOfKeypoints>
+													<keypoint interpolation="1" flags="0">
+														<time>430080 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>435200 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>440320 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>445440 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>450560 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>460800 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>465920 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>471040 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+												</curve>
+											</parameter>
+											<parameter name="Input Tangent" id="4" flags="12884967440">
+												<curve type="1" default="-1.359760761260991" value="-1.3597607612607501">
+													<numberOfKeypoints>8</numberOfKeypoints>
+													<keypoint interpolation="1" flags="0">
+														<time>430080 153600 1 0</time>
+														<value>-1.3597607612607501</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>435200 153600 1 0</time>
+														<value>-1.3597607612607501</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>440320 153600 1 0</time>
+														<value>-1.3597607612607501</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>445440 153600 1 0</time>
+														<value>-1.7898932346123781</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>450560 153600 1 0</time>
+														<value>-2.2200257079640062</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>460800 153600 1 0</time>
+														<value>-1.5988026823284585</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>465920 153600 1 0</time>
+														<value>-1.5988026823284585</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>471040 153600 1 0</time>
+														<value>1.6087341308709284</value>
+													</keypoint>
+												</curve>
+											</parameter>
+											<parameter name="Output Tangent" id="5" flags="12884967440">
+												<curve type="1" default="1.3597607612609863" value="1.3597607612585829">
+													<numberOfKeypoints>8</numberOfKeypoints>
+													<keypoint interpolation="1" flags="0">
+														<time>430080 153600 1 0</time>
+														<value>1.3597607612585829</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>435200 153600 1 0</time>
+														<value>1.3597607612585829</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>440320 153600 1 0</time>
+														<value>1.3597607612585829</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>445440 153600 1 0</time>
+														<value>2.2238733768468633</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>450560 153600 1 0</time>
+														<value>3.0879859924351436</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>460800 153600 1 0</time>
+														<value>3.1467437744133449</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>465920 153600 1 0</time>
+														<value>3.1467437744133449</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>471040 153600 1 0</time>
+														<value>-2.4655109205402774</value>
+													</keypoint>
+												</curve>
+											</parameter>
+										</vertex_folder>
+									</vertex>
+									<vertex index="3" id="378" flags="8">
+										<vertex_folder name="Vertex" id="378" flags="8590004240">
+											<parameter name="Enabled" id="1" flags="8590000144">
+												<curve type="1" default="1" value="1">
+													<numberOfKeypoints>8</numberOfKeypoints>
+													<keypoint interpolation="0" flags="0">
+														<time>430080 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+													<keypoint interpolation="0" flags="0">
+														<time>435200 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+													<keypoint interpolation="0" flags="0">
+														<time>440320 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+													<keypoint interpolation="0" flags="0">
+														<time>445440 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+													<keypoint interpolation="0" flags="0">
+														<time>450560 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+													<keypoint interpolation="0" flags="0">
+														<time>460800 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+													<keypoint interpolation="0" flags="0">
+														<time>465920 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+													<keypoint interpolation="0" flags="0">
+														<time>471040 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+												</curve>
+											</parameter>
+											<parameter name="Value" id="2" flags="12884967440">
+												<curve type="1" default="1.3051892961375451" value="1.3051892961380112">
+													<numberOfKeypoints>8</numberOfKeypoints>
+													<keypoint interpolation="1" flags="0">
+														<time>430080 153600 1 0</time>
+														<value>3.912216140857613</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>435200 153600 1 0</time>
+														<value>9.4294349690586188</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>440320 153600 1 0</time>
+														<value>8.2412459393677491</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>445440 153600 1 0</time>
+														<value>6.5111901303462965</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>450560 153600 1 0</time>
+														<value>11.897212221253127</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>460800 153600 1 0</time>
+														<value>-4.9957473734701487</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>465920 153600 1 0</time>
+														<value>-3.5812304476578349</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>471040 153600 1 0</time>
+														<value>-3.5812304476578349</value>
+													</keypoint>
+												</curve>
+											</parameter>
+											<parameter name="Bias" id="3" flags="8590000144">
+												<curve type="1" default="1" value="1">
+													<numberOfKeypoints>8</numberOfKeypoints>
+													<keypoint interpolation="1" flags="0">
+														<time>430080 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>435200 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>440320 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>445440 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>450560 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>460800 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>465920 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>471040 153600 1 0</time>
+														<value>1</value>
+													</keypoint>
+												</curve>
+											</parameter>
+											<parameter name="Input Tangent" id="4" flags="12884967440">
+												<curve type="1" default="-11.398617982864382" value="-11.398617982867338">
+													<numberOfKeypoints>8</numberOfKeypoints>
+													<keypoint interpolation="1" flags="0">
+														<time>430080 153600 1 0</time>
+														<value>-11.39214140632137</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>435200 153600 1 0</time>
+														<value>-27.224766253399896</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>440320 153600 1 0</time>
+														<value>-27.22463313854248</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>445440 153600 1 0</time>
+														<value>-27.22463313854248</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>450560 153600 1 0</time>
+														<value>-27.22463313854248</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>460800 153600 1 0</time>
+														<value>-27.070745384723566</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>465920 153600 1 0</time>
+														<value>-27.070745384723566</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>471040 153600 1 0</time>
+														<value>-27.070745384723566</value>
+													</keypoint>
+												</curve>
+											</parameter>
+											<parameter name="Output Tangent" id="5" flags="12884967440">
+												<curve type="1" default="11.39861798286438" value="11.398617982869281">
+													<numberOfKeypoints>8</numberOfKeypoints>
+													<keypoint interpolation="1" flags="0">
+														<time>430080 153600 1 0</time>
+														<value>9.6705887317646493</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>435200 153600 1 0</time>
+														<value>14.123345851900197</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>440320 153600 1 0</time>
+														<value>21.050096511833718</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>445440 153600 1 0</time>
+														<value>21.050096511833718</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>450560 153600 1 0</time>
+														<value>21.050096511833718</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>460800 153600 1 0</time>
+														<value>63.148117065442889</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>465920 153600 1 0</time>
+														<value>63.148117065442889</value>
+													</keypoint>
+													<keypoint interpolation="1" flags="0">
+														<time>471040 153600 1 0</time>
+														<value>63.148117065442889</value>
+													</keypoint>
+												</curve>
+											</parameter>
+										</vertex_folder>
+									</vertex>
+								</curve_Y>
+								<closed>1</closed>
+								<curve type="1" default="0" value="0">
+									<numberOfKeypoints>8</numberOfKeypoints>
+									<min>0</min>
+									<max>0</max>
+									<keypoint interpolation="1" flags="0">
+										<time>430080 153600 1 0</time>
+										<value>0</value>
+										<outputTangentTime>0.011111111</outputTangentTime>
+										<outputTangentValue>0</outputTangentValue>
+									</keypoint>
+									<keypoint interpolation="1" flags="0">
+										<time>435200 153600 1 0</time>
+										<value>0</value>
+										<inputTangentTime>-0.011111111111111112</inputTangentTime>
+										<inputTangentValue>0</inputTangentValue>
+										<outputTangentTime>0.011111111</outputTangentTime>
+										<outputTangentValue>0</outputTangentValue>
+									</keypoint>
+									<keypoint interpolation="1" flags="0">
+										<time>440320 153600 1 0</time>
+										<value>0</value>
+										<inputTangentTime>-0.011111111111111112</inputTangentTime>
+										<inputTangentValue>0</inputTangentValue>
+									</keypoint>
+									<keypoint interpolation="1" flags="0">
+										<time>445440 153600 1 0</time>
+										<value>0</value>
+										<inputTangentTime>-0.011111110799999999</inputTangentTime>
+										<inputTangentValue>-0</inputTangentValue>
+										<outputTangentTime>0.011111110799999999</outputTangentTime>
+										<outputTangentValue>-0</outputTangentValue>
+									</keypoint>
+									<keypoint interpolation="1" flags="0">
+										<time>450560 153600 1 0</time>
+										<value>0</value>
+										<outputTangentTime>0.022222222333333333</outputTangentTime>
+										<outputTangentValue>0</outputTangentValue>
+									</keypoint>
+									<keypoint interpolation="1" flags="0">
+										<time>460800 153600 1 0</time>
+										<value>0</value>
+										<inputTangentTime>-0.022222222222222223</inputTangentTime>
+										<inputTangentValue>0</inputTangentValue>
+										<outputTangentTime>0.011111111</outputTangentTime>
+										<outputTangentValue>0</outputTangentValue>
+									</keypoint>
+									<keypoint interpolation="1" flags="0">
+										<time>465920 153600 1 0</time>
+										<value>0</value>
+										<inputTangentTime>-0.011111111111111112</inputTangentTime>
+										<inputTangentValue>0</inputTangentValue>
+										<outputTangentTime>0.011111111</outputTangentTime>
+										<outputTangentValue>0</outputTangentValue>
+									</keypoint>
+									<keypoint interpolation="1" flags="0">
+										<time>471040 153600 1 0</time>
+										<value>0</value>
+										<inputTangentTime>-0.011111111111111112</inputTangentTime>
+										<inputTangentValue>0</inputTangentValue>
+										<outputTangentTime>0.011111111111111112</outputTangentTime>
+										<outputTangentValue>-0</outputTangentValue>
+									</keypoint>
+								</curve>
+							</parameter>
+							<parameter name="Closed" id="116" flags="8590000144" default="0" value="1"/>
+							<parameter name="Fill" id="113" flags="8589938706">
+								<foldFlags>131072</foldFlags>
+							</parameter>
+							<parameter name="Outline" id="108" flags="8589971474">
+								<foldFlags>131072</foldFlags>
+								<parameter name="Pressure Over Stroke" id="136" flags="8724348946">
+									<curve type="1" default="1" value="1" round="0">
+										<numberOfKeypoints>2</numberOfKeypoints>
+										<min>0</min>
+										<max>1</max>
+										<keypoint interpolation="1" flags="0">
+											<time>0 1 1 0</time>
+											<value>1</value>
+											<outputTangentTime>0.33333333333333331</outputTangentTime>
+											<outputTangentValue>0</outputTangentValue>
+										</keypoint>
+										<keypoint interpolation="1" flags="0">
+											<time>1 1 1 0</time>
+											<value>1</value>
+											<inputTangentTime>-0.33333333333333331</inputTangentTime>
+											<inputTangentValue>0</inputTangentValue>
+											<outputTangentTime>0.33333333333333331</outputTangentTime>
+											<outputTangentValue>-0</outputTangentValue>
+										</keypoint>
+									</curve>
+									<rangeName>Stroke Length</rangeName>
+								</parameter>
+								<parameter name="Pen Speed Over Stroke" id="138" flags="8724348946">
+									<curve type="1" default="1" value="1" round="0">
+										<numberOfKeypoints>2</numberOfKeypoints>
+										<min>0</min>
+										<max>1</max>
+										<keypoint interpolation="1" flags="0">
+											<time>0 1 1 0</time>
+											<value>1</value>
+											<outputTangentTime>0.33333333333333331</outputTangentTime>
+											<outputTangentValue>0</outputTangentValue>
+										</keypoint>
+										<keypoint interpolation="1" flags="0">
+											<time>1 1 1 0</time>
+											<value>1</value>
+											<inputTangentTime>-0.33333333333333331</inputTangentTime>
+											<inputTangentValue>0</inputTangentValue>
+											<outputTangentTime>0.33333333333333331</outputTangentTime>
+											<outputTangentValue>-0</outputTangentValue>
+										</keypoint>
+									</curve>
+									<rangeName>Stroke Length</rangeName>
+								</parameter>
+							</parameter>
+							<parameter name="Is Mask" id="154" flags="8589934610" default="0" value="1"/>
+							<parameter name="Mask Blend Mode" id="103" flags="8590000144" default="0" value="0"/>
+							<parameter name="Invert Mask" id="115" flags="8589934608" default="0" value="1"/>
+							<parameter name="Mask Color" id="143" flags="8590000144" default="0" value="0"/>
+							<parameter name="Completed" id="157" flags="8589934610" default="0" value="1"/>
+						</parameter>
+					</parameter>
+				</mask>
+				<aspectRatio>1</aspectRatio>
+				<flags>0</flags>
+				<timing in="46080 153600 1 0" out="471040 153600 1 0" offset="0 1 1 0"/>
+				<foldFlags>0</foldFlags>
+				<baseFlags>524304</baseFlags>
+				<parameter name="Properties" id="1" flags="8589938704">
+					<parameter name="Transform" id="100" flags="8589938704">
+						<parameter name="Position" id="101" flags="8589938704">
+							<foldFlags>15</foldFlags>
+							<parameter name="X" id="1" flags="8589934608" default="0" value="0.92639039999389183"/>
+							<parameter name="Y" id="2" flags="8589934608" default="0" value="-1.0595910842218927"/>
+						</parameter>
+					</parameter>
+					<parameter name="Lighting" id="230" flags="8589938706">
+						<foldFlags>15</foldFlags>
+					</parameter>
+					<parameter name="Shadows" id="234" flags="8589938706">
+						<foldFlags>15</foldFlags>
+					</parameter>
+					<parameter name="Reflection" id="223" flags="8589971474">
+						<foldFlags>131087</foldFlags>
+					</parameter>
+				</parameter>
+				<parameter name="Object" id="2" flags="8589938704">
+					<parameter name="Fixed Width" id="302" flags="12884901908" default="1920" value="1920"/>
+					<parameter name="Fixed Height" id="303" flags="12884901908" default="1080" value="1080"/>
+					<parameter name="Flatten" id="311" flags="8589934610" default="0" value="0"/>
+					<parameter name="Layer Order" id="305" flags="8589934610" default="0" value="0"/>
+					<parameter name="Aperture Width" id="312" flags="12884901906" default="1920" value="1920"/>
+					<parameter name="Aperture Height" id="313" flags="12884901906" default="1080" value="1080"/>
+					<parameter name="New Fixed Res Behavior" id="315" flags="8594194480" default="1" value="0"/>
+				</parameter>
+			</group>
+			<aspectRatio>1</aspectRatio>
+			<flags>0</flags>
+			<timing in="0 153600 1 0" out="552960 153600 1 0" offset="-302080 153600 1 0"/>
+			<foldFlags>0</foldFlags>
+			<baseFlags>524304</baseFlags>
+			<parameter name="Properties" id="1" flags="8589938704">
+				<parameter name="Lighting" id="230" flags="8589938706">
+					<foldFlags>15</foldFlags>
+				</parameter>
+				<parameter name="Shadows" id="234" flags="8589938706">
+					<foldFlags>15</foldFlags>
+				</parameter>
+				<parameter name="Reflection" id="223" flags="8589971474">
+					<foldFlags>131087</foldFlags>
+				</parameter>
+			</parameter>
+			<parameter name="Object" id="2" flags="8589938704">
+				<parameter name="Fixed Width" id="302" flags="12884901908" default="1920" value="1920"/>
+				<parameter name="Fixed Height" id="303" flags="12884901908" default="1080" value="1080"/>
+				<parameter name="Flatten" id="311" flags="8589934610" default="0" value="0"/>
+				<parameter name="Layer Order" id="305" flags="8589934610" default="0" value="0"/>
+				<parameter name="Aperture Width" id="312" flags="12884901906" default="1920" value="1920"/>
+				<parameter name="Aperture Height" id="313" flags="12884901906" default="1080" value="1080"/>
+				<parameter name="New Fixed Res Behavior" id="315" flags="8594194480" default="1" value="0"/>
+			</parameter>
+		</group>
+		<aspectRatio>1</aspectRatio>
+		<flags>0</flags>
+		<timing in="0 153600 1 0" out="552960 153600 1 0" offset="291840 153600 1 0"/>
+		<foldFlags>0</foldFlags>
+		<baseFlags>524304</baseFlags>
+		<parameter name="Properties" id="1" flags="8589938704">
+			<parameter name="Lighting" id="230" flags="8589938706">
+				<foldFlags>15</foldFlags>
+			</parameter>
+			<parameter name="Shadows" id="234" flags="8589938706">
+				<foldFlags>15</foldFlags>
+			</parameter>
+			<parameter name="Reflection" id="223" flags="8589971474">
+				<foldFlags>131087</foldFlags>
+			</parameter>
+		</parameter>
+		<parameter name="Object" id="2" flags="8589938704">
+			<parameter name="Fixed Width" id="302" flags="12884901908" default="1920" value="1920"/>
+			<parameter name="Fixed Height" id="303" flags="12884901908" default="1080" value="1080"/>
+			<parameter name="Flatten" id="311" flags="8589934610" default="0" value="0"/>
+			<parameter name="Layer Order" id="305" flags="8589934610" default="0" value="0"/>
+			<parameter name="Aperture Width" id="312" flags="12884901906" default="1920" value="1920"/>
+			<parameter name="Aperture Height" id="313" flags="12884901906" default="1080" value="1080"/>
+			<parameter name="New Fixed Res Behavior" id="315" flags="8594194480" default="1" value="0"/>
+		</parameter>
+	</layer>
+
+	<audio name="Audio Layer" id="1999722128">
+		<audioTrack name="S1" id="1999725662">
+			<flags>0</flags>
+			<linkedobjects>1999725661</linkedobjects>
+			<timing in="0 153600 1 0" out="552960 153600 1 0" offset="0 153600 1 0"/>
+			<foldFlags>16384</foldFlags>
+			<baseFlags>524304</baseFlags>
+			<parameter name="Properties" id="1" flags="8589938704">
+				<parameter name="Media" id="104" flags="77309476880" default="0" value="1999725660"/>
+				<parameter name="Retime Value" id="109" flags="8590065682">
+					<curve type="1" default="1" value="1" round="0" retimingExtrapolation="1">
+						<numberOfKeypoints>2</numberOfKeypoints>
+						<postExtrapolation>1</postExtrapolation>
+						<keypoint interpolation="1" flags="0">
+							<time>0 153600 1 0</time>
+							<value>1</value>
+						</keypoint>
+						<keypoint interpolation="1" flags="0">
+							<time>558080 153600 1 0</time>
+							<value>110</value>
+						</keypoint>
+					</curve>
+				</parameter>
+				<parameter name="Retime Value Cache" id="110" flags="8590065682">
+					<curve type="1" default="1" value="1">
+						<numberOfKeypoints>2</numberOfKeypoints>
+						<keypoint interpolation="1" flags="128">
+							<time>0 1 1 0</time>
+							<value>1</value>
+						</keypoint>
+						<keypoint interpolation="1" flags="128">
+							<time>109 30 1 0</time>
+							<value>110</value>
+						</keypoint>
+					</curve>
+				</parameter>
+			</parameter>
+			<parameter name="Object" id="2" flags="8589938704"/>
+		</audioTrack>
+		<scenenode name="Master" id="1999722129" factoryID="14" version="5">
+			<flags>0</flags>
+			<timing in="0 1 1 0" out="552960 153600 1 0" offset="0 1 1 0"/>
+			<foldFlags>0</foldFlags>
+			<baseFlags>524368</baseFlags>
+			<parameter name="Properties" id="1" flags="8589938704"/>
+			<parameter name="Object" id="2" flags="8589938704"/>
+		</scenenode>
+		<flags>0</flags>
+		<timing in="0 153600 1 0" out="552960 153600 1 0" offset="0 1 1 0"/>
+		<foldFlags>0</foldFlags>
+		<baseFlags>524368</baseFlags>
+		<parameter name="Properties" id="1" flags="8589938704"/>
+		<parameter name="Object" id="2" flags="8589938704"/>
+	</audio>
+
+	<footage name="Media Layer" id="1999722104">
+		<clip name="S1" id="1999725660">
+			<relativeURL>Media/S1.mov</relativeURL>
+			<missingWidth>1920</missingWidth>
+			<missingHeight>1080</missingHeight>
+			<missingDuration>3.6333333333333333</missingDuration>
+			<creationDuration>109</creationDuration>
+			<mediaID></mediaID>
+			<flags>0</flags>
+			<timing in="0 1 1 0" out="552960 153600 1 0" offset="0 1 1 0"/>
+			<foldFlags>0</foldFlags>
+			<baseFlags>524304</baseFlags>
+			<parameter name="Properties" id="1" flags="8589938704"/>
+			<parameter name="Object" id="2" flags="8589938704">
+				<parameter name="Alpha Type" id="100" flags="8589938704">
+					<parameter name="Alpha Type" id="101" flags="8590000128" default="0" value="1"/>
+				</parameter>
+				<parameter name="Pixel Aspect Ratio" id="104" flags="12884901888" default="1" value="1"/>
+				<parameter name="Frame Rate" id="107" flags="8589934592" default="0" value="30"/>
+				<parameter name="Fixed Width" id="114" flags="12884901890" default="1920" value="1920"/>
+				<parameter name="Fixed Height" id="115" flags="12884901890" default="1080" value="1080"/>
+				<parameter name="Use Background Color" id="116" flags="8589934594" default="0" value="0"/>
+				<parameter name="Background Color" id="117" flags="8589971458">
+					<foldFlags>15</foldFlags>
+					<parameter name="Red" id="1" flags="8589967376" default="1" value="1"/>
+					<parameter name="Green" id="2" flags="8589967376" default="1" value="1"/>
+					<parameter name="Blue" id="3" flags="8589967376" default="1" value="1"/>
+				</parameter>
+				<parameter name="Missing Is Still" id="128" flags="8589934610" default="0" value="0"/>
+			</parameter>
+		</clip>
+		<flags>0</flags>
+		<timing in="0 1 1 0" out="552960 153600 1 0" offset="0 1 1 0"/>
+		<foldFlags>0</foldFlags>
+		<baseFlags>524304</baseFlags>
+		<parameter name="Properties" id="1" flags="8589938704"/>
+		<parameter name="Object" id="2" flags="8589938704"/>
+	</footage>
+</scene>
+
+</ozml>
