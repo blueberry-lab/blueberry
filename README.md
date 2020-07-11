@@ -1,11 +1,18 @@
+# ROADMAP and version management.
+
+
+---
+### Version Management
 note: version management. `a.b.c` (a is the big change, b is the product versions, c is the optimization)
 
-# The main channel: PAPAYA
+##### 1.0: formed idea-papaya
+
+**The main channel: PAPAYA**
 
 - patient papaya.
 - passionate papaya.
 
-## Feature Channel: LIME-mental vitamin (Open Orange)
+**Feature Channel: LIME-mental vitamin (Open Orange)**
 
 Name: LIME
 Description: mission-boost your mental health like Albert Einstein!
