@@ -9,14 +9,17 @@ note: version management. `a.b.c` (a is the big change, b is the product version
 Jul-2020.
 
 **Channel**
+
 - Blueberry Blog-App.
+- icon colors: 2D2768, 7678ED, F7B801, F18701, F35B04. [coolors](https://coolors.co/2d2768-7678ed-f7b801-f18701-f35b04)
+  
 **Topic Clusters**
 - Financial Independence.
 - How to Think.
 - Productivity.
 - (digital skills)
 
-**Traction Testing Sprints**
+**Traction Testing Sprints** (Digital Marketing)
 - Blogging and SEO.
 - 
 ### 1.0: formed idea-papaya

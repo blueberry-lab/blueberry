@@ -1,0 +1,1 @@
+- [Foundations of Positive Psychology Specialization](https://www.coursera.org/specializations/positivepsychology)
