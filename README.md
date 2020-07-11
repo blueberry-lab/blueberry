@@ -2,10 +2,10 @@
 
 
 ---
-### Version Management
+# Version Management
 note: version management. `a.b.c` (a is the big change, b is the product versions, c is the optimization)
 
-##### 1.0: formed idea-papaya
+### 1.0: formed idea-papaya
 
 **The main channel: PAPAYA**
 
@@ -21,3 +21,15 @@ Description: mission-boost your mental health like Albert Einstein!
 - 2.0: embrace OpenAI (and other open-AI-software) to genegrate metal music. examples: MuseNet, Jukebox ...
 - 3.0: use AI to generate graphic design.
 - ...
+
+### 1.5: tranform to Blueberry, focusing on Blogging and most essential skills for life.
+**Channel**
+- Blueberry Blog-App.
+**Topic Clusters**
+- Financial Independence.
+- How to Think.
+- Productivity.
+- (digital skills)
+
+**Traction Testing Sprints**
+- Blogging and SEO.
