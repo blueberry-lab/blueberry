@@ -13,9 +13,14 @@ When your money makes more than you do, you are officially wealthy. When you can
   - Credit & Debt
   - Retirement
   - Personal budget and (investment basic)
-  - Cash (Money) Management
+  - Cashflow (Money) Management
   - Financial Family planning
+
 - Investment
+  - Invest Real-Estate
+  - Invest Bitcoin
+  - Invest Stock Market
+  - Invest Startup
 - Start a Business
   - Finance for Startup
 
@@ -26,6 +31,27 @@ When your money makes more than you do, you are officially wealthy. When you can
 **Investors**
 
 **Personal Finance**
+
+- Linkedin:
+
+  Path:
+
+  - Stay Ahead in Personal Finance
+  - Develop Your Finance and Accounting Skills
+
+  Courses:
+
+  - Finance Foundations
+  - Behavioral Finance Foundations
+  - Understanding Capital Markets
+  - Recovering from a Financial Setback
+  - Finance for Non-Financial Managers
+  - Teaching Your Kids About
+  - (Helping Your Employees Meet Retirement Goals)
+  - Setting Your Financial Goals
+  - Financial Basics Everyone Should Know
+  - Start Young for Your Best
+  - Managing Your Personal Investments
 
 - coursera:
   - [Financial Planning for Young Adults](https://www.coursera.org/learn/financial-planning)

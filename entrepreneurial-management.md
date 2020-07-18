@@ -11,6 +11,11 @@
 # IDEAS-VALUES-MARKET-BUSINESS MODEL
 
 - educational content.
+  - Financial Independence. | **sales business experiments** (business ideas, model ...)
+  - Career Direction (strong focus on Tech Career)
+  - How to Think.
+  - Productivity.
+  - (digital skills)
 
 # OPERATIONAL MODEL
 
