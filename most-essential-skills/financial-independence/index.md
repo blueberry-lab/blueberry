@@ -1,30 +1,41 @@
 # Financial Independence (Money IQ)
 
-### Core Concept:
+### Curriculum:
 
 When your money makes more than you do, you are officially wealthy. When you can comfortably live on your investment income, you are financially secure
 
-- **Personal Finance: financial security**
+#### **Personal Finance: financial security**
 
-  - Types of Income Resources
-  - Financial Plan
-  - Personal finance principles
-  - Behavioral Finance
-  - Credit & Debt
-  - Retirement
+- Types of Income Resources (Digital Income, Passive Income)
+
+- Financial Plan
+- Personal finance principles
+- Behavioral Finance
+- Credit & Debt
+- Retirement
+
+- Financial Family planning
+
+- Managing Personal Finance
+
+  - Core Concepts
+  - Personal Financial Statement
+    - Cashflow (Money) Management
+    - Balance Sheet
+    - Income Statement
   - Personal budget and (investment basic)
-  - Cashflow (Money) Management
-  - Financial Family planning
 
-- Investment
+* Investment
   - Invest Real-Estate
   - Invest Bitcoin
   - Invest Stock Market
   - Invest Startup
-- Start a Business
+* Start a Business (how to make money)
   - Finance for Startup
 
-**Financial Independence**: become wealth.
+**Financial Independence**: how to become wealth.
+
+---
 
 ### Top Experts.
 
